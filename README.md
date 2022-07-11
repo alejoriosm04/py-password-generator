@@ -30,6 +30,7 @@
 <p>
     2. Interact with the program following the steps and finally copy your new password on your clipboard. Do not forget to save it in a Password Manager.
 </p>
+<img src="https://i.imgur.com/e0hSexN.png" style="height: 400px;"/>
 <h2>
     Contribute
 </h2>
